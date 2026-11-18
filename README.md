@@ -126,7 +126,14 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 - Não é um projeto executivo de engenharia nem um orçamento comercial.
 - A simulação usa apenas os dados cadastrados no programa (quantidade de pessoas e horário informados manualmente).
 
-## 6 - Fontes
+## 6 - Benefícios 
+
+- Menos desperdício de energia: a alternativa B (LED com sensor de presença) reduz cerca de 45% do consumo, uns 18 kWh por mês e cerca de R$ 23 por mês em cada ponto. Isso é compatível com a economia de até 60% que estudos municipais citam na troca de vapor de sódio por LED.
+- Uso de fonte renovável: a alternativa C (solar com bateria) tira cerca de 97% da energia da rede, com 95% de participação renovável e cerca de 18 kg de CO₂e evitados por ano.
+- Resiliência e segurança: com solar e bateria, o ponto continua iluminado e informando em caso de queda de energia, o que melhora a segurança de quem espera à noite (ODS 11.2).
+
+
+## 7 - Fontes
 1. Surge PV. *Energia solar no estado de São Paulo* (irradiação de 4,5 a 4,8 kWh/m²/dia na capital). https://www.surgepv.com/pt/solar-compliance/brazil/estado/sao-paulo
 2. CRESESB/CEPEL. *SunData — cálculo da irradiação solar diária média mensal.* https://cresesb.cepel.br/sundata/index.php
 3. Enel Distribuição São Paulo. *Tarifa de Energia Elétrica* (Resolução Homologatória ANEEL nº 3.596/2026, válida a partir de 04/07/2026; B1 residencial: TUSD 472,42 R$/MWh e TE 316,96 R$/MWh). https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html
