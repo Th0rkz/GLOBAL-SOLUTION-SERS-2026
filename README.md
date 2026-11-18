@@ -47,17 +47,17 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 
 ### 3.1 Premissas (exemplo — [VERIFICAR] e citar fontes antes da entrega)
 
-| Premissa | Valor | Fonte a confirmar |
+| Premissa | Valor | Fontes |
 |---|---|---|
 | Horas de sol pleno (SP) | 4,5 h/dia | CRESESB |
 | Rendimento do sistema solar (PR) | 0,75 | Literatura técnica |
 | Tarifa de energia | R$ 0,90/kWh | ANEEL / distribuidora |
 | Fator de emissão da rede | 0,06 kg CO₂e/kWh | MCTI |
-| Módulo fotovoltaico | 400 Wp | Ficha técnica |
-| Autonomia da bateria / DoD / eficiência | 2 dias / 80% / 90% | Ficha técnica |
-| Cobertura solar (resto vem da rede) | 95% | Premissa do grupo |
-| Custo de implantação A / B / C | R$ 3.000 / 4.500 / 12.000 | Orçamentos |
-| Manutenção A / B / C | R$ 300 / 200 / 250 por ano | Orçamentos |
+| Módulo fotovoltaico | 400 Wp | Valor baseado em painéis comuns |
+| Autonomia da bateria / DoD / eficiência | 2 dias / 80% / 90% | Valor baseado em painéis comuns |
+| Cobertura solar (resto vem da rede) | 95% | Premissa |
+| Custo de implantação A / B / C | R$ 3.000 / 4.500 / 12.000 | Orçamentos estimados|
+| Manutenção A / B / C | R$ 300 / 200 / 250 por ano | Orçamentos estimados|
 
 ### 3.2 Equipamentos
 
@@ -116,7 +116,7 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 | Emissões evitadas estimadas | kg CO₂e/ano |
 | Pontos de prioridade ALTA (do BUS NOW) | quantidade |
 
-## 5. Limitações
+## 5 - Limitações
 
 - Os valores de potência, custo, tarifa, fator de emissão e insolação são **estimativas**; os resultados são **projeções condicionadas às premissas**, não resultados garantidos.
 - A prioridade do BUS NOW influencia apenas o carregador USB, que é o equipamento de menor consumo; por isso o consumo varia pouco entre os pontos.
@@ -125,3 +125,9 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 - O payback é simples, sem inflação, reajuste de tarifa ou financiamento.
 - Não é um projeto executivo de engenharia nem um orçamento comercial.
 - A simulação usa apenas os dados cadastrados no programa (quantidade de pessoas e horário informados manualmente).
+
+## 6 - Fontes
+- https://cresesb.cepel.br/index.php?section=sundata
+- https://www.pvsyst.com/help-pvsyst7/performance_ratio.htm
+- https://solarprime.com.br/tarifa-hora-certa/
+- https://mangue.tech/blog/fatores-emissao-brasil-mcti-ipcc-guia
