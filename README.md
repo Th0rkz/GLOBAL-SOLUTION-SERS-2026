@@ -34,7 +34,7 @@ Comparar três alternativas para a mesma necessidade energética (iluminação +
         │                                      │
         │                     Sensores (presença, consumo) e dados do BUS NOW
         ▼                                      ▼
-   Rede elétrica  ───────────────►  Python (main.py + energia.py)
+   Rede elétrica  ───────────────►  Python 
    (reserva)                      prioridade + cálculos energéticos
                                                │
                                                ▼
