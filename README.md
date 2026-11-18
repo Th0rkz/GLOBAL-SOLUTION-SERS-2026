@@ -115,8 +115,6 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 | Emissões evitadas estimadas | kg CO₂e/ano |
 | Pontos de prioridade ALTA (do BUS NOW) | quantidade |
 
-O `energia.py` exporta esses valores no arquivo `indicadores_energia.csv`, que o dashboard lê.
-
 ## 5. Limitações
 
 - Os valores de potência, custo, tarifa, fator de emissão e insolação são **estimativas**; os resultados são **projeções condicionadas às premissas**, não resultados garantidos.
