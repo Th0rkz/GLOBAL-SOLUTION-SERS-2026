@@ -127,7 +127,18 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 - A simulação usa apenas os dados cadastrados no programa (quantidade de pessoas e horário informados manualmente).
 
 ## 6 - Fontes
-- https://cresesb.cepel.br/index.php?section=sundata
-- https://www.pvsyst.com/help-pvsyst7/performance_ratio.htm
-- https://solarprime.com.br/tarifa-hora-certa/
-- https://mangue.tech/blog/fatores-emissao-brasil-mcti-ipcc-guia
+1. Surge PV. *Energia solar no estado de São Paulo* (irradiação de 4,5 a 4,8 kWh/m²/dia na capital). https://www.surgepv.com/pt/solar-compliance/brazil/estado/sao-paulo
+2. CRESESB/CEPEL. *SunData — cálculo da irradiação solar diária média mensal.* https://cresesb.cepel.br/sundata/index.php
+3. Enel Distribuição São Paulo. *Tarifa de Energia Elétrica* (Resolução Homologatória ANEEL nº 3.596/2026, válida a partir de 04/07/2026; B1 residencial: TUSD 472,42 R$/MWh e TE 316,96 R$/MWh). https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html
+4. TRT-15. *Plano de Descarbonização — Programa Justiça Carbono Zero 2025* (cita o fator médio anual do SIN em 2023: 0,0385 tCO₂/MWh, dados do MCTI). https://trt15.jus.br/sites/portal/files/roles/institucional/gestao-estrategica/sustentabilidade/Plano%20de%20Descarboniza%C3%A7%C3%A3o%20-%20Programa%20Justi%C3%A7a%20Carbono%20Zero%20-%202025%20(2)_compressed.pdf
+   Fatores oficiais mensais: MCTI/SIRENE, https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/dados-e-ferramentas/fatores-de-emissao
+5. Canal Solar. *Emissões de CO₂ da geração elétrica sobem em abril, mostra MCTI* (jan–abr de 2025: 23,7; 24,8; 21,5 e 28,9 kg/MWh). https://canalsolar.com.br/emissoes-de-co₂-geracao-eletrica-mcti/
+6. Normas.com.br. *A tecnologia LED usada na iluminação pública* (substituição de vapor de sódio de 70 W por LED). https://www.normas.com.br/visualizar/artigo-tecnico/2235/a-tecnologia-led-usada-na-iluminacao-publica
+7. Prefeitura de Cotia. *Caderno de investimentos — Parque de Iluminação Pública + Inteligente* (luminárias LED de 30 W como o tipo mais numeroso). https://cotia.sp.gov.br/wp-content/uploads/2023/09/ed-anexo-16-–-caderno-de-investimentos.pdf
+8. Wattuneed. *Bateria de lítio LiFePO₄ 12,8 V 100 Ah 1,28 kWh* (ficha de varejo europeu: DoD de até 90% e cerca de 3.000 ciclos em modelo comparável). https://www.wattuneed.com/es/bateria-litio/6750-bateria-de-litio-lifepo4-128-kwh-powerbrick-pb12100-128-v-100-ah-ip65-0712971137783.html
+9. Cenário Energia. *Preço do watt-pico residencial recua 7% em um ano* (R$ 2,45/Wp, jun/2026). https://cenarioenergia.com.br/2026/06/09/preco-do-watt-pico-residencial-recua-7-em-um-ano-e-abre-janela-de-oportunidade-na-mmgd/
+10. Calculadora do Mundo. *Valor do kWh por distribuidora 2026* (Enel SP: R$ 0,78938 sem impostos; cerca de R$ 1,02 com impostos a 300 kWh). https://www.calculadoradomundo.com.br/energia/tarifa-energia-por-distribuidora
+11. Energia Livre Brasil. *Conta de luz em São Paulo* (Enel SP, B1 e B3 a R$ 0,79/kWh sem impostos). https://energialivrebrasil.com.br/cidade/sao-paulo
+12. Prefeitura de Santa Cruz da Conceição/SP. *Estudo Técnico Preliminar — substituição de vapor de sódio por LED* (economia de até 60%). https://santacruzdaconceicao.sp.gov.br/wp-content/uploads/2025/04/ESTUDO-TECNICO-PRELIMINAR-LED-ORLA.pdf
+13. DGABC. *Aneel aprova alta média de 10,18% para tarifas dos consumidores da Enel São Paulo* (reajuste de julho de 2026). https://www.dgabc.com.br/Noticia/4332348/aneel-aprova-alta-media-de-10-18-para-tarifas-dos-consumidores-da-enel-sao-paulo
+14. ONU. *Objetivo de Desenvolvimento Sustentável 11* e *ODS 7* (metas 11.2 e 7.2).
