@@ -1,6 +1,7 @@
 **Global Solution 2026.2 | SERS | Ciência da Computação — FIAP**
 
 **Integrantes:** _(Thor Correa Neto - 575726, Tales de Souza Jardins - 575080)_
+**Integração** Com a disciplina de Pensamento Computacional e Automação em Python (código)
 ---
 
 ## 1. Problema
