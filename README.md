@@ -45,7 +45,7 @@ Comparar três alternativas para a mesma necessidade energética (iluminação +
 
 Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/dia).
 
-### 3.1 Premissas (exemplo — [VERIFICAR] e citar fontes antes da entrega)
+### 3.1 Premissas
 
 | Premissa | Valor | Fontes |
 |---|---|---|
