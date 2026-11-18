@@ -118,12 +118,11 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 
 ## 5 - Limitações
 
-- Os valores de potência, custo, tarifa, fator de emissão e insolação são **estimativas**; os resultados são **projeções condicionadas às premissas**, não resultados garantidos.
+- Os valores de potência, custo, tarifa, fator de emissão e insolação são **estimativas**; os resultados são projeções, não resultados garantidos.
 - A prioridade do BUS NOW influencia apenas o carregador USB, que é o equipamento de menor consumo; por isso o consumo varia pouco entre os pontos.
 - O fator do sensor de presença (50% do tempo com pessoas) é uma suposição, sem medição real.
 - Não considera sombreamento, degradação dos painéis, vida útil da bateria, nem furto ou vandalismo.
 - O payback é simples, sem inflação, reajuste de tarifa ou financiamento.
-- Não é um projeto executivo de engenharia nem um orçamento comercial.
 - A simulação usa apenas os dados cadastrados no programa (quantidade de pessoas e horário informados manualmente).
 
 ## 6 - Benefícios 
