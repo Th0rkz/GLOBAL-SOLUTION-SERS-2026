@@ -8,17 +8,17 @@
 
 **Espaço comunitário:** Pontos de ônibus.
 
-Pontos de ônibus costumam depender da rede elétrica para iluminação, painel informativo e carregamento de celular. Esses equipamentos funcionam em horários fixos, mesmo quando não há passageiros, o que gera **desperdício de energia**. Além disso, uma falta de energia deixa o ponto escuro e sem informação, o que afeta a segurança e a confiança no transporte público.
+Pontos de ônibus costumam depender da rede elétrica para iluminação, painel informativo e carregamento de celular, esses equipamentos funcionam em horários fixos, mesmo quando não há passageiros, o que gera desperdício de energia. Além disso, a falta de energia deixa o ponto escuro e sem informação, o que afeta a segurança e a confiança no transporte público.
 
-**Público beneficiado:** Passageiros do transporte público, principalmente nos horários de pico e à noite.
+**Público beneficiado:** Passageiros do transporte público ao todo, principalmente nos horários de pico e à noite.
 
 **(Alinhamento com ODS:** a meta 11.2 trata do acesso a transporte público seguro e sustentável. Há relação também com a ODS 7 (energia limpa e acessível) e a ODS 13 (ação contra a mudança do clima).)
 
-**Ligação com o código:** o BUS NOW classifica cada ponto em prioridade ALTA, MÉDIA ou BAIXA com base na demanda de passageiros. O programa usa essa prioridade para estimar o uso de equipamentos como carregador USB, ligando a demanda por transporte ao consumo de energia.
+**Ligação com código:** o BUS NOW classifica cada ponto em prioridade ALTA, MÉDIA ou BAIXA com base na demanda de passageiros. O programa usa essa prioridade para estimar o uso de equipamentos como carregador USB, ligando a demanda por transporte ao consumo de energia.
 
 ## 2. Solução
 
-Comparar três alternativas para a mesma necessidade energética (iluminação + painel informativo + carregador USB) em um período de referência de 30 dias:
+Comparação das alternativas para a mesma necessidade energética (iluminação + painel informativo + carregador USB) em um período de referência de 30 dias:
 
 | Alternativa | Descrição | Fonte |
 |---|---|---|
@@ -103,7 +103,7 @@ Energia de cada equipamento: **E = (P × t) / 1000** (E em kWh, P em W, t em h/d
 | Viabilidade técnica | Já existe | Simples | Exige espaço, insolação e manutenção da bateria |
 | Benefício à comunidade | — | Menos desperdício | Ponto continua funcionando em queda de energia |
 
-**Leitura dos resultados:** nas premissas adotadas, a alternativa B tem o melhor retorno financeiro, e a C tem o maior ganho ambiental e de resiliência (o ponto segue iluminado em falta de energia). A solução recomendada é **B como primeira etapa e C nos pontos onde a continuidade do serviço e a segurança são mais críticas**.
+**Leitura dos resultados:** nas premissas adotadas, a alternativa B tem o melhor retorno financeiro, e a C tem o maior ganho ambiental e de resiliência (o ponto segue iluminado em falta de energia). A solução recomendada é B como primeira etapa e C nos pontos onde a continuidade do serviço e a segurança são mais críticas.
 
 ## 4. Indicadores do dashboard
 
